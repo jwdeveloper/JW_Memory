@@ -1,11 +1,11 @@
 package jw.memory.game;
 
-import jw.commands.CommandHelper;
-import jw.gui.button.Button;
-import jw.gui.core.InventoryGUI;
+import jw.api.commands.CommandHelper;
+import jw.api.gui.button.Button;
+import jw.api.gui.core.InventoryGUI;
 import jw.memory.data.Settings;
-import jw.task.TaskTimer;
-import jw.utilites.Emoticons;
+import jw.api.task.TaskTimer;
+import jw.api.utilites.Emoticons;
 import org.bukkit.ChatColor;
 import org.bukkit.Material;
 

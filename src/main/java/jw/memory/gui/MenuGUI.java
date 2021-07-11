@@ -1,6 +1,6 @@
 package jw.memory.gui;
 
-import jw.gui.assets.ChestGUI;
+import jw.api.gui.assets.ChestGUI;
 import jw.memory.Main;
 import jw.memory.data.DataManager;
 import org.bukkit.Material;

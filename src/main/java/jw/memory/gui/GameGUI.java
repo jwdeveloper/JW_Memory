@@ -1,12 +1,12 @@
 package jw.memory.gui;
 
-import jw.gui.assets.ChestGUI;
-import jw.gui.core.InventoryGUI;
+import jw.api.gui.assets.ChestGUI;
+import jw.api.gui.core.InventoryGUI;
 import jw.memory.data.Settings;
 import jw.memory.data.UserData;
 import jw.memory.data.UserDataRepository;
 import jw.memory.game.GameManger;
-import jw.utilites.Emoticons;
+import jw.api.utilites.Emoticons;
 import org.bukkit.ChatColor;
 import org.bukkit.Material;
 import org.bukkit.Sound;

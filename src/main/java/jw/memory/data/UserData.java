@@ -1,6 +1,6 @@
 package jw.memory.data;
 
-import jw.data.models.Entity;
+import jw.api.data.models.Entity;
 
 public class UserData extends Entity
 {

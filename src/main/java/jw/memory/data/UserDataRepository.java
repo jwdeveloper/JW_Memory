@@ -1,7 +1,7 @@
 package jw.memory.data;
 
-import jw.data.repositories.RepositoryBase;
-import jw.utilites.FileHelper;
+import jw.api.data.repositories.RepositoryBase;
+import jw.api.utilites.FileHelper;
 
 import java.util.Optional;
 

@@ -1,6 +1,6 @@
 package jw.memory;
 
-import jw.InicializerAPI;
+import jw.api.InicializerAPI;
 import jw.memory.commands.MemoryCommand;
 import jw.memory.data.DataManager;
 import org.bukkit.plugin.java.JavaPlugin;

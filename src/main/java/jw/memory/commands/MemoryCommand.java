@@ -1,7 +1,7 @@
 package jw.memory.commands;
 
-import jw.commands.JwCommandGUI;
-import jw.gui.core.InventoryGUI;
+import jw.api.commands.JwCommandGUI;
+import jw.api.gui.core.InventoryGUI;
 import jw.memory.gui.MenuGUI;
 
 public class MemoryCommand extends JwCommandGUI

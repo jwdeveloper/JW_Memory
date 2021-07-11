@@ -1,6 +1,6 @@
 package jw.memory.data;
 
-import jw.data.repositories.RepositoryManager;
+import jw.api.data.repositories.RepositoryManager;
 
 public class DataManager extends RepositoryManager
 {
