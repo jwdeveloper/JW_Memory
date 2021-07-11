@@ -1,6 +1,6 @@
-# Spigot memory game 
+# Memory game 
 
-spigiot version 1.17
+ **Spigiot version 1.17**
 
  **Usage**
 
