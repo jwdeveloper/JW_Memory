@@ -4,7 +4,7 @@
 
  **Usage**
 
->Dowland `jw_memory.jar` and insert it in `plugins` folder 
+>Dowland `Jw_Memory.jar` and insert it in `plugins` folder 
 
 >Run server and use command `/memorygame`   
 
@@ -18,6 +18,9 @@
 
 
 ***Modyfy sounds, icons, rules and more in `plugins/jw_memory/settings.json`***
+
+![alt text](https://i.postimg.cc/9XyKq5g3/Untitled.png)
+![alt text](https://i.postimg.cc/g2zCWSKC/ragg.png)
 
 
 
