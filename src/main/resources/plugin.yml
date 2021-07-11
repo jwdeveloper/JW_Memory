@@ -1,0 +1,4 @@
+name: JW_Memory
+version: ${project.version}
+main: jw.memory.Main
+api-version: 1.17
